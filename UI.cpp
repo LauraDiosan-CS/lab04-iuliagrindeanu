@@ -21,7 +21,7 @@ void afisare_ui(Repo& r)
 char meniu_ui()
 {
 	char op;
-	cout << "Introduceti 1 pentru afisare filme;" << endl
+	cout << "Introduceti 1 pentru afisare examene;" << endl
 		<< "Introduceti 2 pentru adaugare element;" << endl
 		<< "Introduceti 3 pentru iesire." << endl
 		<< "Introduceti optiunea: ";
