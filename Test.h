@@ -1,4 +1,5 @@
 #pragma once
-#include "Examen.h"
+#include "Exam.h"
 void test();
 void testRepo();
+void testService();
